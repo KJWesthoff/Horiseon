@@ -7,10 +7,10 @@
 1. The "Search Engine optimisation link in the header does not work     
     - id mssing in section with search angine - and tags changed from div to sections etc.
 1. Try the "Accecibility experince of the page - could't find out how to after googling decided to do a "ligthhouse" audit with google dev tools it scored a 72% - To be improved
- see: ![BeforeScreenShot](./Screenshot from 2020-09-19 14-04-32.png) The report shows missing [alt attributes]
+ see: ![BeforeScreenShot](Screenshot_from_2020-09-19_14-04-32.png) The report shows missing [alt attributes]
     - alt attributes addeed to the img tags where relevant
     - empty alt tags added to icons
-    - now looks like ![AfterScreenshot](./Screenshot from 2020-09-19 15-44-43.png)
+    - now looks like ![AfterScreenshot](Screenshot_from_2020-09-19_15-44-43.png)
     - Lighthouse also ad a comment regarding coloe contrast - no action for now
 
  1. Look at the html
