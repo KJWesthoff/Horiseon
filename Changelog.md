@@ -32,6 +32,7 @@
     1. Lots of repetition in the "benefits section" and "contents section"
         - Order re-done, un-used class references kept in html (if someone else is using them) 
         - code reused, it had a higher level benefits class which is referenced
+        - code reused, it had a higher level contents class which is referenced
         
 
 
