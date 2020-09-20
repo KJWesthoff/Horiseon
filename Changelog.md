@@ -29,7 +29,9 @@
         -   class removed from header and footer, also in the html part (risky if they are referenced in other places)
     1. The order of entries changed to match the html better
         - there were some general styling og a and p elements - moved to the beginning 
-    1. Lots of repetition in the "benefits section"
+    1. Lots of repetition in the "benefits section" and "contents section"
+        - Order re-done, un-used class references kept in html (if someone else is using them) 
         - code reused, it had a higher level benefits class which is referenced
+        
 
 
