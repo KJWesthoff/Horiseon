@@ -4,7 +4,7 @@
 ## Look at the starter page as is
 1. The title says "website" in the tab:
     - Fixed
-1. Formatted the htmal file in vs code
+1. Formatted the html file in vs code
 1. The "Search Engine optimisation link in the header does not work     
     - id missing in section with search angine - and tags changed from div to sections etc.
 1. Try the "Accecibility experince of the page: - could't find out how to after googling found out to do a "ligthhouse" audit with google dev tools it scored a 72% - To be improved
